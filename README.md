@@ -26,4 +26,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+
+## Launch Application
 https://seanmcnallie.github.io/Week-5-Challenge/
